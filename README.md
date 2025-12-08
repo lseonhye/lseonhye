@@ -48,9 +48,9 @@
 <img src="https://img.shields.io/badge/Velog-f7c1d9?style=flat&logo=velog&logoColor=white"/>
 </a>
 
-<a href="https://blog.naver.com/lseonhye" target="_blank">
+<!-- <a href="https://blog.naver.com/lseonhye" target="_blank">
 <img src="https://img.shields.io/badge/NaverBlog-f7c1d9?style=flat&logo=naver&logoColor=white"/>
-</a>
+</a> -->
 
 <a href="https://instagram.com/_seonhy" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-f7c1d9?style=flat&logo=instagram&logoColor=white"/>
