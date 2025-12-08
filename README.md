@@ -1,9 +1,9 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=F7C1E3&height=200&section=header&text=I'm%20Seonhye&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=f6e4f2&height=200&section=header&text=Seonhye%20Lee&fontSize=38&fontColor=555555&animation=fadeIn&fontAlign=50)
 
 <p align="center" style="margin-top:-50px;">
-  <span style="font-size:16px; color:#ffffff">Backend Developer</span>
+  <span style="font-size:16px; color:#555555">Backend Developer</span>
 </p>
 <!-- <h1 align="center" style="color:#ff9acc;">Hi, I'm Seonhye Lee </h1> -->
 <!-- <h3 align="center" style="color:#ff9acc;">Backend Developer</h3> -->
@@ -13,7 +13,9 @@
 
 ---
 
-### <span style="color:#ff9acc;" >Tech Stack</span>
+<h3 align="center">
+  <span style="color:#333333">Tech Stack</span>
+</h3>
 <p align="center">
   <!-- 1 : Pink row -->
   <img src="https://img.shields.io/badge/Java-F7C1E3?style=flat&logo=openjdk&logoColor=white"/>
@@ -38,9 +40,9 @@
 </p>
 
 ---
-
-### <span style="color:#ff9acc;">Blogs & Social</span>
-
+<h3 align="center">
+  <span style="color:#555555">Blogs & Social</span>
+</h3>
 <p align="center">
 <a href="https://velog.io/@seonhye/posts" target="_blank">
 <img src="https://img.shields.io/badge/Velog-f7c1d9?style=flat&logo=velog&logoColor=white"/>
@@ -57,15 +59,15 @@
 
 ---
 
-### <span style="color:#ff9acc;">Contact</span>
-<a align="center" href="mailto:sh133726@naver.com">
-  <img src="https://img.shields.io/badge/Email-f7c1d9?style=flat&logo=gmail&logoColor=white"/>
-</a>
-<br/><br/>
+<h3 align="center">
+  <span style="color:#555555">Contact</span>
+</h3>
+<p align="center">
+  <a href="mailto:sh133726@naver.com">
+    <img src="https://img.shields.io/badge/Email-f7c1d9?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-<!-- <p align="center" style="color:#ff9acc">
-</p> -->
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=C7C9FF&height=150&section=footer&text=Seonhye%20&fontSize=15&fontColor=ffffff&animation=fadeIn)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=f6e4f2&height=150&section=footer&text=Seonhye%20&fontSize=15&fontColor=555555&animation=fadeIn)
 
 </div>
