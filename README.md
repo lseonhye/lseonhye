@@ -20,23 +20,14 @@
   <!-- 1 : Pink row -->
   <img src="https://img.shields.io/badge/Java-F7C1E3?style=flat&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-F9A8C4?style=flat&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SpringSecurity-F4ADC8?style=flat&logo=springsecurity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JPA-F3BCD4?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-F4B6C2?style=flat&logo=jsonwebtokens&logoColor=white"/>
+
 
   <br/>
 
   <!-- 2 : sky blue -->
   <img src="https://img.shields.io/badge/PostgreSQL-84b7da?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-b3d4f1?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Render-a6d0dd?style=flat&logo=render&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-84b8da?style=flat&logo=vercel&logoColor=white"/>
 
-  <br/>
 
-  <!-- 3 : lavender -->
-  <img src="https://img.shields.io/badge/AWS-c7c9ff?style=flat&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHubActions-bcbcf2?style=flat&logo=githubactions&logoColor=white"/>
 </p>
 
 ---
