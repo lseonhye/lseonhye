@@ -24,8 +24,8 @@
 
   <br/>
 
-  <!-- 2 : sky blue -->
-  <img src="https://img.shields.io/badge/PostgreSQL-84b7da?style=flat&logo=postgresql&logoColor=white"/>
+  <!-- 2 : 라벤더 -->
+  <img src="https://img.shields.io/badge/PostgreSQL-bcbcf2?style=flat&logo=postgresql&logoColor=white"/>
 
 
 </p>
