@@ -39,6 +39,10 @@
 <img src="https://img.shields.io/badge/Velog-f7c1d9?style=flat&logo=velog&logoColor=white"/>
 </a>
 
+<a href="https://lseonhye.tistory.com/" target="_blank">
+<img src="https://img.shields.io/badge/Tistory-f7c1d9?style=flat&logo=tistory&logoColor=white"/>
+</a>
+
 <!-- <a href="https://blog.naver.com/lseonhye" target="_blank">
 <img src="https://img.shields.io/badge/NaverBlog-f7c1d9?style=flat&logo=naver&logoColor=white"/>
 </a> -->
